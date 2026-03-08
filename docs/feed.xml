@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>トレイルランニング・デイリー</title>
+    <description>トレイルランニングの最新ニュースを毎日お届けする日本語ポッドキャスト</description>
+    <link>https://silverbuckle.github.io/trail-podcast-feed/</link>
+    <language>ja</language>
+    <itunes:author>Trail Podcast</itunes:author>
+    <itunes:category text="Sports"/>
+    <itunes:image href="https://silverbuckle.github.io/trail-podcast-feed/cover.jpg"/>
+    <!-- episodes will be inserted here by upload.py -->
+  </channel>
+</rss>
