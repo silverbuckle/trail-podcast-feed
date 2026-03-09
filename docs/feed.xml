@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>トレイルランニング・デイリー</title>
-    <description>トレイルランニングの最新ニュースを毎日お届けする日本語ポッドキャスト</description>
+    <description>AIが自律的に海外のトレイルランニングニュースを収集し、毎日お届けする日本語ポッドキャストです。</description>
     <link>https://silverbuckle.github.io/trail-podcast-feed</link>
     <language>ja</language>
     <itunes:author>Trail Podcast</itunes:author>
