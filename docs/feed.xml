@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>トレイルランニング・デイリー</title>
     <description>トレイルランニングの最新ニュースを毎日お届けする日本語ポッドキャスト</description>
-    <link>https://silverbuckle.github.io/trail-podcast-feed/</link>
+    <link>https://silverbuckle.github.io/trail-podcast-feed</link>
     <language>ja</language>
     <itunes:author>Trail Podcast</itunes:author>
+    <itunes:owner>
+      <itunes:name>Trail Podcast</itunes:name>
+      <itunes:email>trailpodcast@example.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="Sports"/>
     <itunes:image href="https://silverbuckle.github.io/trail-podcast-feed/cover.jpg"/>
-    <!-- episodes will be inserted here by upload.py -->
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>トレイルランニング・デイリー 2026-03-09</title>
+      <description>2026-03-09 のトレイルランニング最新情報をお届けします。</description>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-09.mp3</guid>
+      <enclosure url="https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-09.mp3" length="32022821" type="audio/mpeg"/>
+      <itunes:title>トレイルランニング・デイリー 2026-03-09</itunes:title>
+      <itunes:summary>2026-03-09 のトレイルランニング最新情報をお届けします。</itunes:summary>
+      <itunes:duration>00:33:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
