@@ -3,8 +3,8 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>トレイルランニング・デイリー</title>
-    <description>AIが自律的に海外のトレイルランニングニュースを収集し、毎日お届けする日本語ポッドキャストです。</description>
+    <title>トレイルランニング・ダイジェスト</title>
+    <description>トレイルランニング・ダイジェストは、AIが自律的に海外のトレイルランニング情報を収集し、紹介するPodcastです。海外の大きなトレンドを掴むことを目的に構築しました。AIによるファクトチェックを二重で行っていますが、不正確な場合があります。気になる情報は、リンク先の情報ソースをご参照ください。</description>
     <link>https://silverbuckle.github.io/trail-podcast-feed</link>
     <language>ja</language>
     <itunes:author>Trail Podcast</itunes:author>
@@ -17,58 +17,47 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>3/10 臨界パワーモデル＆香港298km完走の感動体験</title>
-      <description><![CDATA[Kilian Jornetの2026年シーズンプラン発表を受けて、トレイルランニング界の将来を深掘り。Scott Johnstonによる臨界パワーモデルの科学的解説と、香港HK4TUC 298km完走者の感動体験談を紹介。タケシの丹波篠山ABCマラソン3時間37分完走レポートと青梅高水30K挑戦計画も。
+      <description><![CDATA[Scott Johnstonによるクリティカルパワーモデルの科学的解説から、なぜゾーン3トレーニングが効果的なのかを深掘り。キリアン・ジョルネの2026年戦略、Andy Glazeの感動人生哲学、香港HK4TUC完走者の体験談まで充実の60分。
 
 【目次】
-00:00 オープニング＆丹波篠山マラソン完走報告
-05:00 Kilian Jornet 2026年プラン＆業界動向分析
-20:00 トレイルランニング界のビジネス＆アジア市場
-35:00 臨界パワーモデル詳細解説＆実践方法
-50:00 100マイルレース準備＆青梅高水30K戦略
+00:00 オープニング
+05:00 メインニュース：クリティカルパワーモデル解説
+20:00 メインニュース：Andy Glaze感動ストーリー
+35:00 ディープダイブ：ゾーン3トレーニングの科学
+50:00 ギア＆Tips：100マイル準備戦略
 57:00 エンディング
 
 【参照元】
-・Kilian Jornet - My 2026 season: https://www.youtube.com/watch?v=kds3r1eacT8
-・The Critical Power Model For Runners: https://www.youtube.com/watch?v=Ko7Y65hwQQg
-・How to Build an Unstoppable Aerobic Engine: https://florisgierman.libsyn.com/121-how-to-build-an-unstoppable-aerobic-engine-even-if-starting-from-zero-scott-johnston
-・Dan Green Cocodona Course Record Interview: https://thewellwithdylanbowman.libsyn.com/dan-green-gratitude-mentorship-a-cocodona-course-record
-・HK4TUC 298km完走体験談: https://podcasters.spotify.com/pod/show/trahk/episodes/Episode-63---Natalie-Webster-e3fj6mm
+・The Critical Power Model For Runners: Uses and Limitations: https://www.youtube.com/watch?v=Ko7Y65hwQQg
+・The season ahead | Very simple, not very original: https://www.youtube.com/watch?v=EXjH3nG8hJU
+・Andy Glaze | Keep Hammering Collective | Episode 181: https://www.youtube.com/watch?v=_JvwsZnMbXE
+・A Collection of Horrible Fates: https://www.youtube.com/watch?v=FXrLM8oRJFQ
+・Episode 63 - Natalie Webster: https://podcasters.spotify.com/pod/show/trahk/episodes/Episode-63---Natalie-Webster-e3fj6mm
 
-#トレイルランニング #100マイル #臨界パワーモデル #青梅高水30K #丹波篠山ABCマラソン #KilianJornet #HK4TUC]]></description>
+#トレイルランニング #クリティカルパワーモデル #ゾーン3トレーニング #ウルトラマラソン #HK4TUC]]></description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-10.mp3</guid>
       <enclosure url="https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-10.mp3" length="18543221" type="audio/mpeg"/>
       <itunes:title>3/10 臨界パワーモデル＆香港298km完走の感動体験</itunes:title>
-      <itunes:summary><![CDATA[Kilian Jornetの2026年シーズンプラン発表を受けて、トレイルランニング界の将来を深掘り。Scott Johnstonによる臨界パワーモデルの科学的解説と、香港HK4TUC 298km完走者の感動体験談を紹介。タケシの丹波篠山ABCマラソン3時間37分完走レポートと青梅高水30K挑戦計画も。
+      <itunes:summary><![CDATA[Scott Johnstonによるクリティカルパワーモデルの科学的解説から、なぜゾーン3トレーニングが効果的なのかを深掘り。キリアン・ジョルネの2026年戦略、Andy Glazeの感動人生哲学、香港HK4TUC完走者の体験談まで充実の60分。
 
 【目次】
-00:00 オープニング＆丹波篠山マラソン完走報告
-05:00 Kilian Jornet 2026年プラン＆業界動向分析
-20:00 トレイルランニング界のビジネス＆アジア市場
-35:00 臨界パワーモデル詳細解説＆実践方法
-50:00 100マイルレース準備＆青梅高水30K戦略
+00:00 オープニング
+05:00 メインニュース：クリティカルパワーモデル解説
+20:00 メインニュース：Andy Glaze感動ストーリー
+35:00 ディープダイブ：ゾーン3トレーニングの科学
+50:00 ギア＆Tips：100マイル準備戦略
 57:00 エンディング
 
 【参照元】
-・Kilian Jornet - My 2026 season: https://www.youtube.com/watch?v=kds3r1eacT8
-・The Critical Power Model For Runners: https://www.youtube.com/watch?v=Ko7Y65hwQQg
-・How to Build an Unstoppable Aerobic Engine: https://florisgierman.libsyn.com/121-how-to-build-an-unstoppable-aerobic-engine-even-if-starting-from-zero-scott-johnston
-・Dan Green Cocodona Course Record Interview: https://thewellwithdylanbowman.libsyn.com/dan-green-gratitude-mentorship-a-cocodona-course-record
-・HK4TUC 298km完走体験談: https://podcasters.spotify.com/pod/show/trahk/episodes/Episode-63---Natalie-Webster-e3fj6mm
+・The Critical Power Model For Runners: Uses and Limitations: https://www.youtube.com/watch?v=Ko7Y65hwQQg
+・The season ahead | Very simple, not very original: https://www.youtube.com/watch?v=EXjH3nG8hJU
+・Andy Glaze | Keep Hammering Collective | Episode 181: https://www.youtube.com/watch?v=_JvwsZnMbXE
+・A Collection of Horrible Fates: https://www.youtube.com/watch?v=FXrLM8oRJFQ
+・Episode 63 - Natalie Webster: https://podcasters.spotify.com/pod/show/trahk/episodes/Episode-63---Natalie-Webster-e3fj6mm
 
-#トレイルランニング #100マイル #臨界パワーモデル #青梅高水30K #丹波篠山ABCマラソン #KilianJornet #HK4TUC]]></itunes:summary>
-      <itunes:duration>00:19:18</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>トレイルランニング・デイリー 2026-03-09</title>
-      <description><![CDATA[2026-03-09 のトレイルランニング最新情報をお届けします。]]></description>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-09.mp3</guid>
-      <enclosure url="https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-09.mp3" length="37827438" type="audio/mpeg"/>
-      <itunes:title>トレイルランニング・デイリー 2026-03-09</itunes:title>
-      <itunes:summary><![CDATA[2026-03-09 のトレイルランニング最新情報をお届けします。]]></itunes:summary>
-      <itunes:duration>00:39:24</itunes:duration>
+#トレイルランニング #クリティカルパワーモデル #ゾーン3トレーニング #ウルトラマラソン #HK4TUC]]></itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
