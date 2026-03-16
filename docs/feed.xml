@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>トレイルランニング・ダイジェスト</title>
-    <description>トレイルランニング・ダイジェストは、AIが自律的に海外のトレイルランニング情報を収集し、紹介するPodcastです。海外の大きなトレンドを掴むことを目的に構築しました。AIによるファクトチェックを二重で行っていますが、不正確な場合があります。気になる情報は、リンク先の情報ソースをご参照ください。</description>
+    <description>この番組は終了しました。</description>
     <link>https://silverbuckle.github.io/trail-podcast-feed</link>
     <language>ja</language>
     <itunes:author>Trail Podcast</itunes:author>
@@ -13,52 +13,8 @@
       <itunes:email>matsuda0415@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Sports"/>
-    <itunes:image href="https://silverbuckle.github.io/trail-podcast-feed/cover_new.jpg"/>
     <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>3/10 臨界パワーモデル＆香港298km完走の感動体験</title>
-      <description><![CDATA[Scott Johnstonによるクリティカルパワーモデルの科学的解説から、なぜゾーン3トレーニングが効果的なのかを深掘り。キリアン・ジョルネの2026年戦略、Andy Glazeの感動人生哲学、香港HK4TUC完走者の体験談まで充実の内容。
-
-【目次】
-00:00 オープニング
-03:00 メインニュース：クリティカルパワーモデル解説
-12:00 メインニュース：Andy Glaze感動ストーリー
-22:00 HK4TUC 香港298km完走体験
-28:00 ディープダイブ：ゾーン3トレーニングの科学
-35:00 ギア＆Tips：100マイル準備戦略
-
-【参照元】
-・The Critical Power Model For Runners: Uses and Limitations: https://www.youtube.com/watch?v=Ko7Y65hwQQg
-・The season ahead | Very simple, not very original: https://www.youtube.com/watch?v=EXjH3nG8hJU
-・Andy Glaze | Keep Hammering Collective | Episode 181: https://www.youtube.com/watch?v=_JvwsZnMbXE
-・A Collection of Horrible Fates: https://www.youtube.com/watch?v=FXrLM8oRJFQ
-・Episode 63 - Natalie Webster: https://podcasters.spotify.com/pod/show/trahk/episodes/Episode-63---Natalie-Webster-e3fj6mm
-
-#トレイルランニング #クリティカルパワーモデル #ゾーン3トレーニング #ウルトラマラソン #HK4TUC]]></description>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-10-v4.mp3</guid>
-      <enclosure url="https://silverbuckle.github.io/trail-podcast-feed/episodes/2026-03-10-v4.mp3" length="31905375" type="audio/mpeg"/>
-      <itunes:title>3/10 臨界パワーモデル＆香港298km完走の感動体験</itunes:title>
-      <itunes:summary><![CDATA[Scott Johnstonによるクリティカルパワーモデルの科学的解説から、なぜゾーン3トレーニングが効果的なのかを深掘り。キリアン・ジョルネの2026年戦略、Andy Glazeの感動人生哲学、香港HK4TUC完走者の体験談まで充実の内容。
-
-【目次】
-00:00 オープニング
-03:00 メインニュース：クリティカルパワーモデル解説
-12:00 メインニュース：Andy Glaze感動ストーリー
-22:00 HK4TUC 香港298km完走体験
-28:00 ディープダイブ：ゾーン3トレーニングの科学
-35:00 ギア＆Tips：100マイル準備戦略
-
-【参照元】
-・The Critical Power Model For Runners: Uses and Limitations: https://www.youtube.com/watch?v=Ko7Y65hwQQg
-・The season ahead | Very simple, not very original: https://www.youtube.com/watch?v=EXjH3nG8hJU
-・Andy Glaze | Keep Hammering Collective | Episode 181: https://www.youtube.com/watch?v=_JvwsZnMbXE
-・A Collection of Horrible Fates: https://www.youtube.com/watch?v=FXrLM8oRJFQ
-・Episode 63 - Natalie Webster: https://podcasters.spotify.com/pod/show/trahk/episodes/Episode-63---Natalie-Webster-e3fj6mm
-
-#トレイルランニング #クリティカルパワーモデル #ゾーン3トレーニング #ウルトラマラソン #HK4TUC]]></itunes:summary>
-      <itunes:duration>00:33:14</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+    <itunes:block>yes</itunes:block>
+    <itunes:complete>yes</itunes:complete>
   </channel>
 </rss>
